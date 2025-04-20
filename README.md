@@ -1,2 +1,2 @@
 # ProGitForProgrammers
-A demonstration program for Pro Git For Programmers
+A demonstration program for Pro Git for Programmers.
